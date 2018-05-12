@@ -1,0 +1,37 @@
+_repo: A-Little-Maid-of-Province-Town_26256
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Wuanita
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '31882'
+    url: http://www.gutenberg.org/2009/agents/31882
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+description: ''
+gutenberg_issued: '2008-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26256'
+  lccn: '13018603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patriotism -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcsh 'Provincetown (Mass.) -- Juvenile fiction'
+title: A Little Maid of Province Town
+url: http://www.gutenberg.org/ebooks/26256
